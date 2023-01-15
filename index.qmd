@@ -9,7 +9,7 @@ The class begins on Thursday 2023-01-19 at 8:30 AM in Room 1217 of the Wolstein 
 
 ## Everything You Need Is Linked Here
 
-The menu bar includes links to everything you'll need this semester, as it gets posted, including
+The menu bar includes links to just about everything you'll need this semester, including
 
 - the [course syllabus](https://thomaselove.github.io/500-syllabus-2023/)
 - the [course calendar](calendar.qmd), which provides the final word on all class sessions and deadlines, and also provides links to the materials used in each class session.
@@ -17,6 +17,8 @@ The menu bar includes links to everything you'll need this semester, as it gets 
 - information on [software](software.qmd), including installation of R and RStudio, key R packages, downloading [data (and code)](https://github.com/THOMASELOVE/500-data) you'll need for the class.
 - a link to the [Canvas](https://canvas.case.edu/) system (CWRU log-in required) we use for turning in some assignments and posting links to recordings,
 - information about where you can [get help and contact Dr. Love](contact.qmd).
+
+I also provide some additional [resources and references](https://github.com/THOMASELOVE/500-classes-2023/tree/main/sources) here.
 
 ## What Should I Do Before Class Begins?
 
@@ -27,5 +29,10 @@ In addition to exploring what's available on this website, you should ...
 2. Once you have registered for the course, please visit our [Welcome to 500 survey](https://bit.ly/500-welcome-2023). You'll need to log into Google via CWRU to access the survey, which should take about 10 minutes to complete. Please complete the survey as soon as possible, ideally before our first class at 8:30 AM on 2022-01-19 in Wolstein Research Building room 1217.
 
 3. **Download the software**. Install R and RStudio and some necessary R packages on a computer you can control throughout the semester. Details [are available here](software.qmd).
+
+## Accessing the 431-432 Class Notes
+
+The [431 Class Notes from Fall 2022 are here](https://thomaselove.github.io/431-notes/), and will be until 2023-06-01.
+The [432 Class Notes from Spring 2023 are here](https://thomaselove.github.io/432-notes/), and will be until 2023-06-01.
 
 If you have any questions, [email Dr. Love](contact.qmd)
