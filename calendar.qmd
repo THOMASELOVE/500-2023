@@ -16,14 +16,6 @@ During the course, we will read Paul Rosenbaum's book **Observation and Experime
 - Classes 02-13 will begin at 9:00 AM and continue until 11 AM.
 
 
-## January 2023
-
-LINK | Date | Description
----------: | :-------: | :-----------------------------------------------------
-[Class 01](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class01) | 01-19 | (8:30 - 11 AM) Rosenbaum Preface & Chapter 1, Introduction
-[Lab 0](lab0.qmd) | 01-26 | Read through the [Lab 0 example](lab0.qmd) before Class 02. Can you replicate it?
-[Class 02](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class02) | 01-26 | Rosenbaum Chapter 2, Propensity Scores I
-
 ## February 2023
 
 LINK | Date | Description
@@ -68,5 +60,12 @@ LINK | Date | Description
 - When prompted via email by the University (usually in late April), please visit <https://webapps.case.edu/courseevals/> and complete the course evaluations before they close.
 
 
+## January 2023
+
+LINK | Date | Description
+---------: | :-------: | :-----------------------------------------------------
+[Class 01](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class01) | 01-19 | (8:30 - 11 AM) Rosenbaum Preface & Chapter 1, Introduction
+[Lab 0](lab0.qmd) | 01-26 | Read through the [Lab 0 example](lab0.qmd) before Class 02. Can you replicate it?
+[Class 02](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class02) | 01-26 | Rosenbaum Chapter 2, Propensity Scores I
 
 
