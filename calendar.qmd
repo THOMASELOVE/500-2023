@@ -15,20 +15,6 @@ During the course, we will read Paul Rosenbaum's book **Observation and Experime
 - Classes 01, 14 and 15 will begin at 8:30 AM and continue until 11 AM.
 - Classes 02-13 will begin at 9:00 AM and continue until 11 AM.
 
-
-## February 2023
-
-LINK | Date | Description
----------: | :-------: | :-----------------------------------------------------
-[Lab 1](lab1.qmd) | 02-01 | [Lab 1](lab1.qmd) due to [Canvas](https://canvas.case.edu/) at 7 PM
-[Class 03](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class03) | 02-02 | Rosenbaum Chapter 3, Propensity Scores II
-[Lab 2](lab2.qmd) | 02-08 | [Lab 2](lab2.qmd) due to [Canvas](https://canvas.case.edu/) at 7 PM
-[Class 04](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class04) | 02-09 | The Toy Example, Propensity Scores III
-[OSIA](osia.qmd) | 02-15 | [OSIA Claims](osia.qmd) due at 7 PM via email to Dr. Love
-[Class 05](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class05) | 02-16 | Rosenbaum Chapter 4, Project Discussion, Propensity Scores IV
-[Proposal 1](proj500.qmd) | 02-22 | [Project Proposal (draft 1)](proj500.qmd) due to [Canvas](https://canvas.case.edu/) at 7 PM
-[Class 06](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class06) | 02-23 | Rosenbaum Chapters 5-6, Propensity Scores V
-
 ## March 2023
 
 LINK | Date | Description
@@ -69,4 +55,17 @@ LINK | Date | Description
 [Lab 0](lab0.qmd) | 01-26 | Read through the [Lab 0 example](lab0.qmd) before Class 02. Can you replicate it?
 [Class 02](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class02) | 01-26 | Rosenbaum Chapter 2, Propensity Scores I
 
+
+## February 2023
+
+LINK | Date | Description
+---------: | :-------: | :-----------------------------------------------------
+[Lab 1](lab1.qmd) | 02-01 | [Lab 1](lab1.qmd) due to [Canvas](https://canvas.case.edu/) at 7 PM
+[Class 03](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class03) | 02-02 | Rosenbaum Chapter 3, Propensity Scores II
+[Lab 2](lab2.qmd) | 02-08 | [Lab 2](lab2.qmd) due to [Canvas](https://canvas.case.edu/) at 7 PM
+[Class 04](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class04) | 02-09 | The Toy Example, Propensity Scores III
+[OSIA](osia.qmd) | 02-15 | [OSIA Claims](osia.qmd) due at 7 PM via email to Dr. Love
+[Class 05](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class05) | 02-16 | Rosenbaum Chapter 4, Project Discussion, Propensity Scores IV
+[Proposal 1](proj500.qmd) | 02-22 | [Project Proposal (draft 1)](proj500.qmd) due to [Canvas](https://canvas.case.edu/) at 7 PM
+[Class 06](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class06) | 02-23 | Rosenbaum Chapters 5-6, Propensity Scores V
 
