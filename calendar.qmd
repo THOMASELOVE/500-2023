@@ -26,20 +26,20 @@ LINK | Date | Description
 [Class 08](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class08) | 03-09 | Rosenbaum Chapter 7, Sensitivity Analyses
 No Class | 03-16 | CWRU Spring Break (03-13 through 03-17)
 [Lab 4](lab4.qmd) | 03-22 | [Lab 4](lab4.qmd) due to [Canvas](https://canvas.case.edu/) at 7 PM
-[Class 09](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class09) | 03-23 | [OSIA](osia.qmd) Group 1, Rosenbaum Chapter 11
+[Class 09](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class09) | 03-23 | [OSIA Group 1](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md#class-09-2023-03-23), Rosenbaum Chapter 11 ([submit essay](essays.html) by 8 AM)
 [Lab 5](lab5.qmd) | 03-29 | [Lab 5](lab5.qmd) due to [Canvas](https://canvas.case.edu/) at 7 PM
-[Class 10](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class10) | 03-30 | [OSIA](osia.qmd) Group 2, Rosenbaum Chapter 9
+[Class 10](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class10) | 03-30 | [OSIA Group 2](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md#class-10-2023-03-30), Rosenbaum Chapter 9 ([submit essay](essays.html) by 8 AM)
 
 ## April and May 2023
 
 LINK | Date | Description
 ---------: | :-------: | :-----------------------------------------------------
 [Update](proj500.qmd) | 04-05 | Project Update due to [Canvas](https://canvas.case.edu/) at 7 PM
-[Class 11](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class11) | 04-06 | [OSIA](osia.qmd) Group 3, Project Updates discussion
-[Class 12](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class12) | 04-13 | Final OSIA talk, Instrumental Variables, Rosenbaum Chapter 8
-[Class 13](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class13) | 04-20 | Recent Work, Rosenbaum Chapter 12
-[Class 14](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class14) | 04-27 | (8:30 - 11 AM) Project Presentations, I
-[Class 15](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class15) | 05-04 | (8:30 - 11 AM) Project Presentations, II
+[Class 11](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class11) | 04-06 | [OSIA Group 3](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md#class-11-2023-04-06), Project Updates discussion
+[Class 12](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class12) | 04-13 | [OSIA Group 4](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md#class-12-2023-04-13), Recent Work, Rosenbaum Chapter 8 ([submit essay](essays.html) by 8 AM)
+[Class 13](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class13) | 04-20 | [Final OSIA presentation](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md#class-13-2023-04-20) Instrumental Variables, Rosenbaum Chapter 12 ([submit essay](essays.html) by 8 AM)
+[Class 14](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class14) | 04-27 | (8:30 - 11 AM) First Seven Project Presentations
+[Class 15](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class15) | 05-04 | (8:30 - 11 AM) Final Six Project Presentations
 
 ## End of Semester
 
