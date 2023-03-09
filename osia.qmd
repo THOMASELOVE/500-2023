@@ -6,6 +6,7 @@ date: last-modified
 This page houses information about **Observational Studies in Action** (OSIA) work for the course.
 
 - Deadlines for all assignments in 500 are provided in the [Course Calendar](calendar.qmd).
+- The [calendar and details for our 13 OSIA presentations](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md) are now available.
 
 ## The Assignment
 
